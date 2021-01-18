@@ -11,11 +11,11 @@ The game is to be designed in such a way that on higher difficulty levels it is 
 The last sequence is a mini-boss fight in a specially designed room. After defeating the boss, in this room you will be able to find a story item or a conversation, if the fight was part of the main or side quest.
 
 Room types:
-* Randomly generated obstacles and covers, lots of enemies.
-* Riddle room, Little or no opponents, an environmental puzzle designed by the developers.
+* Standard room: Randomly generated obstacles and covers, lots of enemies.
+* Riddle room: Little or no opponents, an environmental puzzle designed by the developers.
 * Hiding place room: A room with a valuable find. Mostly the entrance through a hidden passage, sometimes through a normal passage.
 * Boss room: Entirely designed by developers, tailored to suit the boss.
-* Safe zone: Room without enemies, a room without enemies, inhabited by friendly monsters, that is, civilians of the underworld.
+* Safe zone: Room without enemies, inhabited by friendly monsters, that is, civilians of the underworld.
 
 ## Open World
 The navigating a open world is not an important part of the gameplay, but it's very important for narrative. In open world the player will get to know the game world, characters and events. The open world is not made up of rooms, but is one larger location, sometimes it will be underground cities, sometimes it will be an underground clearing, etc. In this part of the game, the player moves without a team (except for some main quests)
